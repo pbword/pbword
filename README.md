@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello world! 
+I’m Prathamesh Badgujar. I like to describe myself as an A.I. - focused software engineer.
+- I have varied interests in tech ranging from, A.I., M.L. and Data Science to 3D Rendering and Visualization to Web Development and Mobile Development.
+- I also like to tinker around with different Linux distros and smartphone OS skins.
+- Feel free to checkout my project repos, I’m eager to know what you can contribute to them :)
 
 <!--
 **pbword/pbword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
